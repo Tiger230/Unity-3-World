@@ -120,3 +120,371 @@ Received Import Request.
 Start importing Assets/Materials/Water.mat using Guid(929375dfa56b9484da92db787db86ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2806a314a5b1a534bf369021a635cfd') in 0.430247 seconds
   Import took 0.437940 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1291.215222 seconds.
+  path: Assets/Poly Assets OBJ/Dolphin 2
+  artifactKey: Guid(a15bcdcdb3a2d4deb931104d6978e61d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Dolphin 2 using Guid(a15bcdcdb3a2d4deb931104d6978e61d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16f3f6f8eb8988b6324e81634446179f') in 0.002639 seconds
+  Import took 0.016105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.109451 seconds.
+  path: Assets/Poly Assets OBJ/Dolphin 2/Mesh_Dolphin.obj
+  artifactKey: Guid(7eb5f47f766074f4fb051dd252a5a5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Dolphin 2/Mesh_Dolphin.obj using Guid(7eb5f47f766074f4fb051dd252a5a5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d9f2ef80bbf27b469fca41abae05916') in 0.389657 seconds
+  Import took 0.399035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.768796 seconds.
+  path: Assets/Poly Assets OBJ/Whale 2
+  artifactKey: Guid(a30751ff3f50e4d0b99266161f23b7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Whale 2 using Guid(a30751ff3f50e4d0b99266161f23b7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cfddaebb567d559a27eebc3b66ccc59') in 0.001844 seconds
+  Import took 0.009904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070700 seconds.
+  path: Assets/Poly Assets OBJ/Whale 2/Whale_01.obj
+  artifactKey: Guid(86ae0aaa5d4f5442e8237bf4c76536a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Whale 2/Whale_01.obj using Guid(86ae0aaa5d4f5442e8237bf4c76536a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dee23c57d190ed28bac4fa058266f21') in 0.064925 seconds
+  Import took 0.073544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.069908 seconds.
+  path: Assets/Poly Assets OBJ/Whale 3
+  artifactKey: Guid(5f3150f248c81469e9f9b07215346b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Whale 3 using Guid(5f3150f248c81469e9f9b07215346b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8d4eadd6c09e270f2c85afcf2ef2603') in 0.001984 seconds
+  Import took 0.014407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006760 seconds.
+  path: Assets/Poly Assets OBJ/Whale 3
+  artifactKey: Guid(5f3150f248c81469e9f9b07215346b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Whale 3 using Guid(5f3150f248c81469e9f9b07215346b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8d4eadd6c09e270f2c85afcf2ef2603') in 0.001484 seconds
+  Import took 0.008895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.376161 seconds.
+  path: Assets/Poly Assets OBJ/Whale 2
+  artifactKey: Guid(5f3150f248c81469e9f9b07215346b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Whale 2 using Guid(5f3150f248c81469e9f9b07215346b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e433c8d21c2eef5a63a6c8999356bdf5') in 0.001759 seconds
+  Import took 0.013828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.788232 seconds.
+  path: Assets/Poly Assets OBJ/Sperm Whale 1
+  artifactKey: Guid(d1d2a42669ea64f768929a0abd65c517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Sperm Whale 1 using Guid(d1d2a42669ea64f768929a0abd65c517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8211581e56ede83f6386d26c09cab269') in 0.002470 seconds
+  Import took 0.016900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.081455 seconds.
+  path: Assets/Poly Assets OBJ/Sperm Whale 1/Mesh_SpermWhale.obj
+  artifactKey: Guid(3dd1caf169c4f4613ac5d93cfc282e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Sperm Whale 1/Mesh_SpermWhale.obj using Guid(3dd1caf169c4f4613ac5d93cfc282e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6038b5aa4031ed4ea3e5a94a9c361698') in 0.064673 seconds
+  Import took 0.084951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Poly Assets OBJ/Sperm Whale 1/Tex_SpermWhale.png
+  artifactKey: Guid(218b1613815024a7faaf57cd7185873e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Sperm Whale 1/Tex_SpermWhale.png using Guid(218b1613815024a7faaf57cd7185873e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca5eb8e0dd58b69d9a33988b2e075fcd') in 0.279616 seconds
+  Import took 0.286564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.201160 seconds.
+  path: Assets/Poly Assets OBJ/Coral 2
+  artifactKey: Guid(f26c2afb301bf4225b8a8df6a39a9606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Coral 2 using Guid(f26c2afb301bf4225b8a8df6a39a9606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98e7d69e7d4d4cdbe3035cebb6c2e186') in 0.006486 seconds
+  Import took 0.015164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050512 seconds.
+  path: Assets/Poly Assets OBJ/Coral 2/Coral_438.obj
+  artifactKey: Guid(990488ba796494c15875ef0f1715a007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Coral 2/Coral_438.obj using Guid(990488ba796494c15875ef0f1715a007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e984e29333d898cd50fca69ee96c65cc') in 0.772453 seconds
+  Import took 0.780206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.606385 seconds.
+  path: Assets/Poly Assets OBJ/Coral 3
+  artifactKey: Guid(e6e8bcdb8d704421598d027bcfa5e841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Coral 3 using Guid(e6e8bcdb8d704421598d027bcfa5e841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487b85e4fd406e301689852055711329') in 0.003780 seconds
+  Import took 0.013435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064310 seconds.
+  path: Assets/Poly Assets OBJ/Coral 3/48-3.jpg
+  artifactKey: Guid(21414324d6e7f4167bc7a5e2394c5015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Coral 3/48-3.jpg using Guid(21414324d6e7f4167bc7a5e2394c5015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422ab6a195299306473fe86de5239ac0') in 0.414674 seconds
+  Import took 0.422856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/Poly Assets OBJ/Coral 3/Coral.obj
+  artifactKey: Guid(c79fc974b44be4a5984ce96b9af86d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Coral 3/Coral.obj using Guid(c79fc974b44be4a5984ce96b9af86d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2961287580ba7c208e6904a0a2677c64') in 0.069418 seconds
+  Import took 0.079416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009310 seconds.
+  path: Assets/Poly Assets OBJ/Coral 3/Coral.obj
+  artifactKey: Guid(c79fc974b44be4a5984ce96b9af86d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Coral 3/Coral.obj using Guid(c79fc974b44be4a5984ce96b9af86d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2961287580ba7c208e6904a0a2677c64') in 0.066387 seconds
+  Import took 0.095065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.084195 seconds.
+  path: Assets/Poly Assets OBJ/Coral 4/coral 1.obj
+  artifactKey: Guid(bfe64f6673749487d9030bb64492ead0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Coral 4/coral 1.obj using Guid(bfe64f6673749487d9030bb64492ead0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e596b9823f058bf8ba3977cb71b119a2') in 1.554154 seconds
+  Import took 1.570419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Poly Assets OBJ/Coral 4
+  artifactKey: Guid(98d7573cda8a644d28ec019e1ec16b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Coral 4 using Guid(98d7573cda8a644d28ec019e1ec16b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa648bcbaff064a525cf8fbf40c872c0') in 0.002917 seconds
+  Import took 0.013815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Poly Assets OBJ/Coral 4/coral 1.obj
+  artifactKey: Guid(bfe64f6673749487d9030bb64492ead0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Coral 4/coral 1.obj using Guid(bfe64f6673749487d9030bb64492ead0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e596b9823f058bf8ba3977cb71b119a2') in 2.859994 seconds
+  Import took 2.876516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.760299 seconds.
+  path: Assets/Poly Assets OBJ/Crab 1/Mesh_Crab.obj
+  artifactKey: Guid(5a6f62869552c45089f076fd07bc01c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Crab 1/Mesh_Crab.obj using Guid(5a6f62869552c45089f076fd07bc01c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6033a44661b81addba76358c13d0deed') in 0.040615 seconds
+  Import took 0.049748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Poly Assets OBJ/Crab 1/Tex_Crab.png
+  artifactKey: Guid(1fe77b7ae93394d12beac9c0eee44a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Crab 1/Tex_Crab.png using Guid(1fe77b7ae93394d12beac9c0eee44a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf5e26a790fd0c405c44b094af8219a') in 0.014549 seconds
+  Import took 0.021207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.655184 seconds.
+  path: Assets/Poly Assets OBJ/Coral 5/coral 3.obj
+  artifactKey: Guid(f76841387b4d742698ffaa7b998377ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Coral 5/coral 3.obj using Guid(f76841387b4d742698ffaa7b998377ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14eef5e2acc1bbf7125c4d66272db934') in 0.229690 seconds
+  Import took 0.242080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.322982 seconds.
+  path: Assets/Poly Assets OBJ/Crab 2/NOVELO_CRAB.obj
+  artifactKey: Guid(97dcf77e02e7a4bdb8348b16544a6046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Crab 2/NOVELO_CRAB.obj using Guid(97dcf77e02e7a4bdb8348b16544a6046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '087c3a3da0091c50eeca4c2e87e9f420') in 0.055130 seconds
+  Import took 0.075937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 229.424904 seconds.
+  path: Assets/Poly Assets OBJ/Kelp 2/kelp 5.obj
+  artifactKey: Guid(f1938ec65517d4af0a8c2477738ef4f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Kelp 2/kelp 5.obj using Guid(f1938ec65517d4af0a8c2477738ef4f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c5daf6540cf530e0c5e4116659cae45') in 0.040066 seconds
+  Import took 0.048876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 178.514021 seconds.
+  path: Assets/Poly Assets OBJ/Kelp 3/kelp 3.obj
+  artifactKey: Guid(5136a78024c074fac96d0cbf8b8976d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Kelp 3/kelp 3.obj using Guid(5136a78024c074fac96d0cbf8b8976d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '438a14ebf64eeb195584ecac8cfc478b') in 0.045307 seconds
+  Import took 0.054263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.491580 seconds.
+  path: Assets/Poly Assets OBJ/Kelp 3/kelp 3.mtl
+  artifactKey: Guid(4b86175ccbdd0482ebff07494cb04c7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Kelp 3/kelp 3.mtl using Guid(4b86175ccbdd0482ebff07494cb04c7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41bee2497bd6f02121bc87f6b5d881f1') in 0.571013 seconds
+  Import took 0.585140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.423350 seconds.
+  path: Assets/Poly Assets OBJ/Kelp 4/7-1.jpg
+  artifactKey: Guid(558405b9469914897b070af7772032c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Kelp 4/7-1.jpg using Guid(558405b9469914897b070af7772032c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd830d53d7dc5107937a326558d4c9bc') in 0.013837 seconds
+  Import took 0.024433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/Poly Assets OBJ/Kelp 4/kelp 1.obj
+  artifactKey: Guid(7a2fbf0fbf3fc4f5cb96c6be2fb9c53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Kelp 4/kelp 1.obj using Guid(7a2fbf0fbf3fc4f5cb96c6be2fb9c53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac17c3e8541c6277f0e6df7e5b63b401') in 0.034263 seconds
+  Import took 0.041522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.335310 seconds.
+  path: Assets/Poly Assets OBJ/Kelp 5/kelp 4.obj
+  artifactKey: Guid(a7e8b45bca80c4809b0f10412efba810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Kelp 5/kelp 4.obj using Guid(a7e8b45bca80c4809b0f10412efba810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dcc5777883f208d7dbe171e74f231ca') in 0.039673 seconds
+  Import took 0.050083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.458101 seconds.
+  path: Assets/Poly Assets OBJ/Treasure Chest/model.obj
+  artifactKey: Guid(dc288653cba7442288a0ac6dd1381a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Treasure Chest/model.obj using Guid(dc288653cba7442288a0ac6dd1381a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '203602415635ea172b6ecb9c8be0fff3') in 5.087329 seconds
+  Import took 5.104836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.051183 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(7cd157161bf584984a0a1bf04da44283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(7cd157161bf584984a0a1bf04da44283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c429c22a6781341ac5cc5721cf6bfbf8') in 0.039176 seconds
+  Import took 0.049651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.819546 seconds.
+  path: Assets/Materials/Coral.mat
+  artifactKey: Guid(7cd157161bf584984a0a1bf04da44283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Coral.mat using Guid(7cd157161bf584984a0a1bf04da44283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b7996842f22dc602c9fbf4c8c78c5b6') in 0.019658 seconds
+  Import took 0.028963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(ec793e19af656478bb50624b3060f055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(ec793e19af656478bb50624b3060f055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e780340937701ce725444e2163c70f83') in 0.013542 seconds
+  Import took 0.021715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.469746 seconds.
+  path: Assets/Materials/Kelp.mat
+  artifactKey: Guid(ec793e19af656478bb50624b3060f055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Kelp.mat using Guid(ec793e19af656478bb50624b3060f055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c074344b71a4cae73defb648ee86c2c2') in 0.021428 seconds
+  Import took 0.033931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001569 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(fea2681135743439e869bf48a16bea94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(fea2681135743439e869bf48a16bea94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e721655ffa6f133f727247e2706c91db') in 0.032027 seconds
+  Import took 0.043058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.010001 seconds.
+  path: Assets/Materials/Coral 1.mat
+  artifactKey: Guid(7cd157161bf584984a0a1bf04da44283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Coral 1.mat using Guid(7cd157161bf584984a0a1bf04da44283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c11df6bc893f99a8c79e4d987b6520') in 0.061520 seconds
+  Import took 0.071481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(e1f8867a88e22468f94da4d949d8cb39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(e1f8867a88e22468f94da4d949d8cb39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf2e0320b256b919bfce9aee6dcde13') in 0.015923 seconds
+  Import took 0.029838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Materials/Coral 2.mat
+  artifactKey: Guid(fea2681135743439e869bf48a16bea94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Coral 2.mat using Guid(fea2681135743439e869bf48a16bea94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff30d0902d8648d30eae9b862561f14') in 0.018305 seconds
+  Import took 0.028488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.691032 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(d0234ba368eeec9418390da711bfdad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(d0234ba368eeec9418390da711bfdad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf5a6696a581935533fe886b4fdbe084') in 0.004159 seconds
+  Import took 0.021261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.385601 seconds.
+  path: Assets/Materials/Coral 3.mat
+  artifactKey: Guid(e1f8867a88e22468f94da4d949d8cb39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Coral 3.mat using Guid(e1f8867a88e22468f94da4d949d8cb39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '027d0d66eebf4a1209786a788bb9b09d') in 0.022295 seconds
+  Import took 0.029696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Materials/Coral 4.mat
+  artifactKey: Guid(21ef8813c927a456b893a3557ca2672e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Coral 4.mat using Guid(21ef8813c927a456b893a3557ca2672e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ba56165385fd472273fdccbe04fb428') in 0.028244 seconds
+  Import took 0.034959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1629.657313 seconds.
+  path: Assets/Poly Assets OBJ/Rock/rock_02.obj
+  artifactKey: Guid(8ec9c4897fa354da99e8093f8ea64411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Assets OBJ/Rock/rock_02.obj using Guid(8ec9c4897fa354da99e8093f8ea64411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db89b649cc206b89f791909cd01b8be') in 0.612487 seconds
+  Import took 0.700819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.834427 seconds.
+  path: Assets/Materials/Coral 4.mat
+  artifactKey: Guid(21ef8813c927a456b893a3557ca2672e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Coral 4.mat using Guid(21ef8813c927a456b893a3557ca2672e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31996fab86f54e8c9113b617050dccdf') in 0.052874 seconds
+  Import took 0.067845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002594 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(b4405ba46d920495f93e90b0bed0a4f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(b4405ba46d920495f93e90b0bed0a4f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d4c227ade1f68ac31e7a4c0338270ce') in 0.032330 seconds
+  Import took 0.055484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 219.081182 seconds.
+  path: Assets/Materials/Kelp 1.mat
+  artifactKey: Guid(ec793e19af656478bb50624b3060f055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Kelp 1.mat using Guid(ec793e19af656478bb50624b3060f055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f2a65b33f146084f9fc29ee39704f7e') in 0.052562 seconds
+  Import took 0.066607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010504 seconds.
+  path: Assets/Materials/Rock 1.mat
+  artifactKey: Guid(b4405ba46d920495f93e90b0bed0a4f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Rock 1.mat using Guid(b4405ba46d920495f93e90b0bed0a4f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cee99e5486025e276a7e2af9f3118c7') in 0.088776 seconds
+  Import took 0.151469 seconds .
+
