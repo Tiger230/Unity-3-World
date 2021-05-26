@@ -12,56 +12,56 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55887
+52716
 Successfully changed project path to: /Volumes/Extreme SSD/Intoduction To Virtual Reality - Sweeney/Unity 3 - World
 /Volumes/Extreme SSD/Intoduction To Virtual Reality - Sweeney/Unity 3 - World
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 101.51 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 72.75 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Volumes/Extreme SSD/Intoduction To Virtual Reality - Sweeney/Unity 3 - World/Assets
 GfxDevice: creating device client; threaded=0
-2021-05-24 12:18:52.066 Unity[63050:773953] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
-2021-05-24 12:18:52.066 Unity[63050:773953] Metal devices available: 1
-2021-05-24 12:18:52.066 Unity[63050:773953] 0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
-2021-05-24 12:18:52.067 Unity[63050:773953] Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-05-25 21:20:26.180 Unity[36857:1614426] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-05-25 21:20:26.180 Unity[36857:1614426] Metal devices available: 1
+2021-05-25 21:20:26.180 Unity[36857:1614426] 0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-05-25 21:20:26.180 Unity[36857:1614426] Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 640
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56050
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56857
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004373 seconds.
+Registered in 0.004810 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 78.45 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 75.01 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.331 seconds
+- Completed reload, in  3.014 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003525 seconds.
+Registered in 0.004152 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 72.20 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 64.13 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.693 seconds
+- Completed reload, in  1.432 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
@@ -69,550 +69,162 @@ Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Ren
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Launching external process: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.97 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2736 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 200.0 MB.
-System memory in use after: 197.5 MB.
+System memory in use before: 200.8 MB.
+System memory in use after: 198.3 MB.
 
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3144.
-Total: 6.988554 ms (FindLiveObjects: 0.545738 ms CreateObjectMapping: 0.264278 ms MarkObjects: 3.487224 ms  DeleteObjects: 2.689056 ms)
+Total: 3.868955 ms (FindLiveObjects: 0.338338 ms CreateObjectMapping: 0.134828 ms MarkObjects: 1.853103 ms  DeleteObjects: 1.541636 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Poly Assets/Anemone 4
-  artifactKey: Guid(edc1ba6b18c02496dbb9408d27d216a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets/Anemone 4 using Guid(edc1ba6b18c02496dbb9408d27d216a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e73075c32b431203bf85ae019ac0043') in 0.007963 seconds
-  Import took 0.016246 seconds .
+  path: Assets/Wood Texture/Wood Patterns/Wood Patterns Demo/Materials/Herringbone_Dark.mat
+  artifactKey: Guid(7fcfac62b5d07884ca0987363723305b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wood Texture/Wood Patterns/Wood Patterns Demo/Materials/Herringbone_Dark.mat using Guid(7fcfac62b5d07884ca0987363723305b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f602bc5035ea9bb60bc0b79be60e7f23') in 0.654764 seconds
+  Import took 0.664865 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 17.040174 seconds.
-  path: Assets/Poly Assets/Anemone 1
-  artifactKey: Guid(70377d82fef6442b6a39f1793d921085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets/Anemone 1 using Guid(70377d82fef6442b6a39f1793d921085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7999d16793b2d0c5e0d11b384b73ca1b') in 0.001382 seconds
-  Import took 0.009054 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.063990 seconds.
-  path: Assets/Poly Assets/Anemone 1/2_Anemone.png
-  artifactKey: Guid(38e68ff4c8710486d9a8d2f510e2c28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets/Anemone 1/2_Anemone.png using Guid(38e68ff4c8710486d9a8d2f510e2c28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bebe80a00d77d1db386af2aabf6fbf4') in 0.429989 seconds
-  Import took 0.437490 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.500228 seconds.
-  path: Assets/Poly Assets/Anemone 1/2_Anemone.gltf
-  artifactKey: Guid(dd4f3c539b9a54c27b6e5ff6186bf3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets/Anemone 1/2_Anemone.gltf using Guid(dd4f3c539b9a54c27b6e5ff6186bf3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5a8b370fc9ede963a6d064b740e6845') in 0.266412 seconds
-  Import took 0.273049 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.231337 seconds.
-  path: Assets/Poly Assets/Anemone 1/2_Anemone.bin
-  artifactKey: Guid(fbb4c92b441844ab8be0ff69e16821c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets/Anemone 1/2_Anemone.bin using Guid(fbb4c92b441844ab8be0ff69e16821c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e3f331f67028a2f576234f368c4294') in 0.360154 seconds
-  Import took 0.368574 seconds .
+  Time since last request: 88.442384 seconds.
+  path: Assets/Sand textures pack/Sand 01/Sand pattern 01.mat
+  artifactKey: Guid(aefa62ee04789e745b9c2b7d23a21e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sand textures pack/Sand 01/Sand pattern 01.mat using Guid(aefa62ee04789e745b9c2b7d23a21e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bcae1869c13dbd963e80591c3bba201') in 0.029649 seconds
+  Import took 0.035790 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.004349 seconds.
+Registered in 0.003583 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.04 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.827 seconds
+- Completed reload, in  1.495 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 1.34 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2645 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 208.6 MB.
-System memory in use after: 206.1 MB.
+System memory in use before: 207.3 MB.
+System memory in use after: 204.8 MB.
 
-Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 3150.
-Total: 6.399342 ms (FindLiveObjects: 0.579741 ms CreateObjectMapping: 0.164530 ms MarkObjects: 3.339144 ms  DeleteObjects: 2.314669 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 426.642665 seconds.
-  path: Assets/Poly Assets/Anemone 1/2_Anemone.bin 2.cpgz
-  artifactKey: Guid(ada66799d7a5649bfac25470115b92b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets/Anemone 1/2_Anemone.bin 2.cpgz using Guid(ada66799d7a5649bfac25470115b92b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5f4f385fe9018a8fe91914aff859774') in 0.330676 seconds
-  Import took 0.338959 seconds .
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 3226.
+Total: 5.437606 ms (FindLiveObjects: 0.473450 ms CreateObjectMapping: 0.159908 ms MarkObjects: 2.404006 ms  DeleteObjects: 2.399053 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 195.133037 seconds.
-  path: Assets/Poly Assets OBJ
-  artifactKey: Guid(ef96028d5913a49a5a433abdf543b402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ using Guid(ef96028d5913a49a5a433abdf543b402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b012d8bea57c1988f927697991ccda7e') in 0.002038 seconds
-  Import took 0.011248 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003288 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.348 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2645 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.5 MB.
+System memory in use after: 205.0 MB.
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 3230.
+Total: 4.772200 ms (FindLiveObjects: 0.371088 ms CreateObjectMapping: 0.177196 ms MarkObjects: 2.511978 ms  DeleteObjects: 1.710628 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 19.247384 seconds.
-  path: Assets/Poly Assets OBJ/archive (34)
-  artifactKey: Guid(17b5f602dc1f54ea8a7dde06230a47b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/archive (34) using Guid(17b5f602dc1f54ea8a7dde06230a47b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a0c0f805b8b13b5ae0d6e3928207a55') in 0.001622 seconds
-  Import took 0.007561 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004618 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.061 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2645 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.8 MB.
+System memory in use after: 205.3 MB.
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 3234.
+Total: 6.303448 ms (FindLiveObjects: 0.584806 ms CreateObjectMapping: 0.193997 ms MarkObjects: 3.370475 ms  DeleteObjects: 2.152575 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.092171 seconds.
-  path: Assets/Poly Assets OBJ/archive (34)/shark.obj
-  artifactKey: Guid(c033ca65b98c14522af807adb0607e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/archive (34)/shark.obj using Guid(c033ca65b98c14522af807adb0607e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692752f840dac266d37e476ab117dbe1') in 1.138501 seconds
-  Import took 1.145567 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003312 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.647 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2645 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.0 MB.
+System memory in use after: 205.5 MB.
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 3238.
+Total: 6.561784 ms (FindLiveObjects: 0.684129 ms CreateObjectMapping: 0.273028 ms MarkObjects: 3.169265 ms  DeleteObjects: 2.433138 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/Poly Assets OBJ/archive (34)/sharkTxt.png
-  artifactKey: Guid(970c2f38dd98240118e878e6ed43db9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/archive (34)/sharkTxt.png using Guid(970c2f38dd98240118e878e6ed43db9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c070d6bf247c33e3fe0b09b89d478f90') in 0.046105 seconds
-  Import took 0.052624 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003880 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.212 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2645 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.3 MB.
+System memory in use after: 205.8 MB.
 
-========================================================================
-Received Import Request.
-  Time since last request: 35.099074 seconds.
-  path: Assets/Poly Assets OBJ/Shark 1/shark.obj
-  artifactKey: Guid(c033ca65b98c14522af807adb0607e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Shark 1/shark.obj using Guid(c033ca65b98c14522af807adb0607e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a860a88b0b9f40398a62fd8e0e0fbd26') in 0.075503 seconds
-  Import took 0.084456 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 134.457519 seconds.
-  path: Assets/Poly Assets OBJ/Octopus 1
-  artifactKey: Guid(16108872a28d34244bcf4401dfc406de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Octopus 1 using Guid(16108872a28d34244bcf4401dfc406de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60c0e54c674b6782d496443776f87676') in 0.001789 seconds
-  Import took 0.011520 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.089287 seconds.
-  path: Assets/Poly Assets OBJ/Octopus 1/Octopus.obj
-  artifactKey: Guid(9bc206b240b8449948d6ba37a23c8096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Octopus 1/Octopus.obj using Guid(9bc206b240b8449948d6ba37a23c8096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18d0e7b6bdb226f2bc5aa4e2f91fb29c') in 0.078440 seconds
-  Import took 0.086491 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000206 seconds.
-  path: Assets/Poly Assets OBJ/Octopus 1/Octopus_BaseColor.png
-  artifactKey: Guid(54b6766bb4dee4c2b989a7df5c9a6863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Octopus 1/Octopus_BaseColor.png using Guid(54b6766bb4dee4c2b989a7df5c9a6863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7247a610d226f7159caad434782c8d') in 0.018709 seconds
-  Import took 0.032391 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.640940 seconds.
-  path: Assets/Poly Assets OBJ/Seahorse 1
-  artifactKey: Guid(2dfff1cb65e4b4268851c0faaffe94af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Seahorse 1 using Guid(2dfff1cb65e4b4268851c0faaffe94af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a49bc31c63503361f0823b2c4e6b118') in 0.002229 seconds
-  Import took 0.010121 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008671 seconds.
-  path: Assets/Poly Assets OBJ/Seahorse 1
-  artifactKey: Guid(2dfff1cb65e4b4268851c0faaffe94af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Seahorse 1 using Guid(2dfff1cb65e4b4268851c0faaffe94af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a49bc31c63503361f0823b2c4e6b118') in 0.002614 seconds
-  Import took 0.012607 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.043641 seconds.
-  path: Assets/Poly Assets OBJ/Seahorse 1/seahorse.obj
-  artifactKey: Guid(a168b95e7cea04984825a76e5530d46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Seahorse 1/seahorse.obj using Guid(a168b95e7cea04984825a76e5530d46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf729c37d5299279b4a20aa6fbe0a0b9') in 0.113570 seconds
-  Import took 0.120939 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001957 seconds.
-  path: Assets/Poly Assets OBJ/Seahorse 1/seahorseTxt.png
-  artifactKey: Guid(8b0de000d1cfa4599bebe4ff735f87b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Seahorse 1/seahorseTxt.png using Guid(8b0de000d1cfa4599bebe4ff735f87b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '274d0a60626809d7b15e36d4f573d19f') in 0.019488 seconds
-  Import took 0.026772 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.574083 seconds.
-  path: Assets/Poly Assets OBJ/Shark 1
-  artifactKey: Guid(17b5f602dc1f54ea8a7dde06230a47b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Shark 1 using Guid(17b5f602dc1f54ea8a7dde06230a47b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63f85986d6de00c8c6966daa092367ef') in 0.003183 seconds
-  Import took 0.013090 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.906243 seconds.
-  path: Assets/Poly Assets OBJ/Coral 1
-  artifactKey: Guid(de2414cb9a7ec479daf6ed6ff3040c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Coral 1 using Guid(de2414cb9a7ec479daf6ed6ff3040c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2611d6ef9adea8c75cfe32a666116e7d') in 0.003848 seconds
-  Import took 0.015298 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003519 seconds.
-  path: Assets/Poly Assets OBJ/Coral 1
-  artifactKey: Guid(de2414cb9a7ec479daf6ed6ff3040c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Coral 1 using Guid(de2414cb9a7ec479daf6ed6ff3040c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2611d6ef9adea8c75cfe32a666116e7d') in 0.002296 seconds
-  Import took 0.019227 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.034556 seconds.
-  path: Assets/Poly Assets OBJ/Coral 1/PUSHILIN_coral.obj
-  artifactKey: Guid(924d863715adb405186a31b589e7891f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Coral 1/PUSHILIN_coral.obj using Guid(924d863715adb405186a31b589e7891f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f297dc2ab819c09cf3cedf5d1b34792c') in 0.085846 seconds
-  Import took 0.095666 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/Poly Assets OBJ/Coral 1/PUSHILIN_coral.png
-  artifactKey: Guid(51707d2230cf54f32bb1d0c158602072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Coral 1/PUSHILIN_coral.png using Guid(51707d2230cf54f32bb1d0c158602072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f6d3452cd7ac246258b50e73a0c926b') in 0.026465 seconds
-  Import took 0.033690 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 676.305246 seconds.
-  path: Assets/Poly Assets OBJ/Kelp 1
-  artifactKey: Guid(15f4124f6413441098a82f40d6afb4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Kelp 1 using Guid(15f4124f6413441098a82f40d6afb4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f17ca682dee9e5c42f08551c87d63c14') in 0.003411 seconds
-  Import took 0.014807 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.239137 seconds.
-  path: Assets/Poly Assets OBJ/Kelp 1/PUSHILIN_kelp.obj
-  artifactKey: Guid(53403ac3c023a4a20b75a6917627d5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Kelp 1/PUSHILIN_kelp.obj using Guid(53403ac3c023a4a20b75a6917627d5c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e399cc2370a896454c584b61b423d8a5') in 0.072353 seconds
-  Import took 0.082764 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/Poly Assets OBJ/Kelp 1/PUSHILIN_kelp.png
-  artifactKey: Guid(a6e341f8daa1442439e8168a2688490b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Kelp 1/PUSHILIN_kelp.png using Guid(a6e341f8daa1442439e8168a2688490b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120cbc523cfe910be479a9d8e6c73f02') in 0.031974 seconds
-  Import took 0.068506 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.978689 seconds.
-  path: Assets/Poly Assets OBJ/Kelp 1/Materials
-  artifactKey: Guid(17a5b2bcc39ec44f28ce07fe6749276c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Kelp 1/Materials using Guid(17a5b2bcc39ec44f28ce07fe6749276c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2129839587b5a318c6279980287d486c') in 0.008061 seconds
-  Import took 0.020690 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2031.069679 seconds.
-  path: Assets/Poly Assets OBJ/Anemone 1
-  artifactKey: Guid(dbe6eda0c116749b8b95419f1cb406bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Anemone 1 using Guid(dbe6eda0c116749b8b95419f1cb406bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a742a08540ec75dfb4b4fe7be35e064') in 0.003586 seconds
-  Import took 0.052815 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008617 seconds.
-  path: Assets/Poly Assets OBJ/Anemone 1/2_Anemone.obj
-  artifactKey: Guid(0487365196d4042f9ac6cde693c6411a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Anemone 1/2_Anemone.obj using Guid(0487365196d4042f9ac6cde693c6411a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f9d057bd7422af5ee4fc28fa22bf3cb') in 0.116261 seconds
-  Import took 0.123338 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000602 seconds.
-  path: Assets/Poly Assets OBJ/Anemone 1/2_Anemone.png
-  artifactKey: Guid(b99bccf664f094e578f5bb8668075171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Anemone 1/2_Anemone.png using Guid(b99bccf664f094e578f5bb8668075171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84f133814f4cf36ff7b040e5513b60e6') in 0.027794 seconds
-  Import took 0.034816 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 98.290125 seconds.
-  path: Assets/Poly Assets OBJ/Anemone 2
-  artifactKey: Guid(a3a6fda673b0a406ea76d7b4d886e92b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Anemone 2 using Guid(a3a6fda673b0a406ea76d7b4d886e92b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bcc16eba08473973dd191534c844288') in 0.004461 seconds
-  Import took 0.022071 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.034650 seconds.
-  path: Assets/Poly Assets OBJ/Anemone 2/CHAHIN_ANEMONE.obj
-  artifactKey: Guid(d436c8a8b7ddc438b9fdca5751ea49dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Anemone 2/CHAHIN_ANEMONE.obj using Guid(d436c8a8b7ddc438b9fdca5751ea49dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c6a2baa6b1ce8bba3d37866fb58174') in 0.075589 seconds
-  Import took 0.087502 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000334 seconds.
-  path: Assets/Poly Assets OBJ/Anemone 2/CHAHIN_ANEMONE_TEXTURE.jpg
-  artifactKey: Guid(4832478467bb94e0fb813ac38253e992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Anemone 2/CHAHIN_ANEMONE_TEXTURE.jpg using Guid(4832478467bb94e0fb813ac38253e992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d61b7133b92403ecc285831eb19599') in 0.289163 seconds
-  Import took 0.296195 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 22.493060 seconds.
-  path: Assets/Poly Assets OBJ/Anemone 3
-  artifactKey: Guid(99a9e226b2d524753854a821c704d196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Anemone 3 using Guid(99a9e226b2d524753854a821c704d196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2130aa980c615e9cca8e4a4b5518a22') in 0.006028 seconds
-  Import took 0.017072 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.010315 seconds.
-  path: Assets/Poly Assets OBJ/Anemone 3
-  artifactKey: Guid(99a9e226b2d524753854a821c704d196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Anemone 3 using Guid(99a9e226b2d524753854a821c704d196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2130aa980c615e9cca8e4a4b5518a22') in 0.002174 seconds
-  Import took 0.010617 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.060665 seconds.
-  path: Assets/Poly Assets OBJ/Anemone 3/Anemone.obj
-  artifactKey: Guid(d31ebc19827ff4957911594e5c706e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Anemone 3/Anemone.obj using Guid(d31ebc19827ff4957911594e5c706e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2cacdce12751239bc4d5fea62f09990') in 5.096875 seconds
-  Import took 5.110549 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 40.109313 seconds.
-  path: Assets/Poly Assets OBJ/Clam 2
-  artifactKey: Guid(256405a51267f48eead719458b53a654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Clam 2 using Guid(256405a51267f48eead719458b53a654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8939cf1fef40445f546f48c3fcbbe813') in 0.004079 seconds
-  Import took 0.012316 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.552961 seconds.
-  path: Assets/Poly Assets OBJ/Clam 1
-  artifactKey: Guid(3ed05bb350e924fd0a2e1104e4be4d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Clam 1 using Guid(3ed05bb350e924fd0a2e1104e4be4d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03482cbf45f07b576e6c024b3093a99e') in 0.007124 seconds
-  Import took 0.026273 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000449 seconds.
-  path: Assets/Poly Assets OBJ/Clam 1
-  artifactKey: Guid(3ed05bb350e924fd0a2e1104e4be4d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Clam 1 using Guid(3ed05bb350e924fd0a2e1104e4be4d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03482cbf45f07b576e6c024b3093a99e') in 0.001593 seconds
-  Import took 0.008693 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.068883 seconds.
-  path: Assets/Poly Assets OBJ/Clam 1/Mesh_Clam.obj
-  artifactKey: Guid(4bbcb140511c6494ea76ada4b0133169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Clam 1/Mesh_Clam.obj using Guid(4bbcb140511c6494ea76ada4b0133169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6556739f715193516bc550e5a6e760b') in 0.041743 seconds
-  Import took 0.048246 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/Poly Assets OBJ/Clam 1/Tex_Clam.png
-  artifactKey: Guid(0ce1fdb42a9714b9eba3ef0471f7bfe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Clam 1/Tex_Clam.png using Guid(0ce1fdb42a9714b9eba3ef0471f7bfe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd6aa789d014754cd57b0b15d91618f') in 0.009867 seconds
-  Import took 0.015980 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 22.883571 seconds.
-  path: Assets/Poly Assets OBJ/Clam 2/NOVELO_CLAM.obj
-  artifactKey: Guid(b5d184fa2eb684064bdf6e72aa408f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Clam 2/NOVELO_CLAM.obj using Guid(b5d184fa2eb684064bdf6e72aa408f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd46dad7e5715c5e1bcf12b4480aedb8') in 0.035128 seconds
-  Import took 0.041686 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 132.127087 seconds.
-  path: Assets/Poly Assets OBJ/Whale 1
-  artifactKey: Guid(4de5305d0f82e49379979b27422ff82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Whale 1 using Guid(4de5305d0f82e49379979b27422ff82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad717b58d6847a9286267baa3508f0ce') in 0.002355 seconds
-  Import took 0.010557 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.639271 seconds.
-  path: Assets/Poly Assets OBJ/Whale 1/Whale_01.obj
-  artifactKey: Guid(3321a8c27fee244c988e896a0e87c4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Whale 1/Whale_01.obj using Guid(3321a8c27fee244c988e896a0e87c4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747eb6a275c64d861c45cc376c0fef83') in 0.066174 seconds
-  Import took 0.073521 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.404353 seconds.
-  path: Assets/Poly Assets OBJ/Octopus
-  artifactKey: Guid(9278612e9960b49a58beb7250775e1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Octopus using Guid(9278612e9960b49a58beb7250775e1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861a5cbc4d3166c42dad63a4f3b282c2') in 0.001772 seconds
-  Import took 0.008708 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.907955 seconds.
-  path: Assets/Poly Assets OBJ/Octopus 2
-  artifactKey: Guid(9278612e9960b49a58beb7250775e1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Octopus 2 using Guid(9278612e9960b49a58beb7250775e1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb9cae3fbec1bd367bd215aa9875503') in 0.001980 seconds
-  Import took 0.009539 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 60.061603 seconds.
-  path: Assets/Poly Assets OBJ/Octopus 2/Octopus_01.obj
-  artifactKey: Guid(211738a10ccef498f81d3889f5d2f705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Octopus 2/Octopus_01.obj using Guid(211738a10ccef498f81d3889f5d2f705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc6a12e10b9f1982d76c9c4203e8dc12') in 0.073751 seconds
-  Import took 0.085926 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 241.761664 seconds.
-  path: Assets/Poly Assets OBJ/Dolphin 1
-  artifactKey: Guid(ea23cb27b3203460c9ab643d3cba22ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Dolphin 1 using Guid(ea23cb27b3203460c9ab643d3cba22ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f25cb1e4f3386c4e3664e0fc4318b1') in 0.008417 seconds
-  Import took 0.028083 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004946 seconds.
-  path: Assets/Poly Assets OBJ/Dolphin 1
-  artifactKey: Guid(ea23cb27b3203460c9ab643d3cba22ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Dolphin 1 using Guid(ea23cb27b3203460c9ab643d3cba22ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f25cb1e4f3386c4e3664e0fc4318b1') in 0.003495 seconds
-  Import took 0.017957 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.054769 seconds.
-  path: Assets/Poly Assets OBJ/Dolphin 1/Dolphin.obj
-  artifactKey: Guid(946adae33732d4b7ba0ff6c09d845238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Dolphin 1/Dolphin.obj using Guid(946adae33732d4b7ba0ff6c09d845238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2a81b4bb1f542e69ad6360821caa118') in 0.045937 seconds
-  Import took 0.055325 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000173 seconds.
-  path: Assets/Poly Assets OBJ/Dolphin 1/Dolphin_BaseColor.png
-  artifactKey: Guid(22fe20fd873db4a09af9ad7e1b275b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Dolphin 1/Dolphin_BaseColor.png using Guid(22fe20fd873db4a09af9ad7e1b275b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca862cf515f8756c6d854b00b1f94531') in 0.014683 seconds
-  Import took 0.020916 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 65.496652 seconds.
-  path: Assets/Poly Assets OBJ/Dolphin 2/Dolphin.obj
-  artifactKey: Guid(7cd131395bcab434cb1628d587e9959e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Dolphin 2/Dolphin.obj using Guid(7cd131395bcab434cb1628d587e9959e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b5b2e5fcf4fc6d091e7a0d33c3af10c') in 0.065181 seconds
-  Import took 0.071199 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001867 seconds.
-  path: Assets/Poly Assets OBJ/Dolphin 2
-  artifactKey: Guid(a2f58a91a9b8f42dcb46fc45e166e97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Dolphin 2 using Guid(a2f58a91a9b8f42dcb46fc45e166e97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90f4afa637f5fbd5c3599f6a3b30d49b') in 0.003355 seconds
-  Import took 0.009352 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000151 seconds.
-  path: Assets/Poly Assets OBJ/Dolphin 2/Dolphin_BaseColor.png
-  artifactKey: Guid(37c48ed866ef4494f921dac7c0553841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Dolphin 2/Dolphin_BaseColor.png using Guid(37c48ed866ef4494f921dac7c0553841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b927d66d9d5f096e2850cf36ff69935') in 0.012112 seconds
-  Import took 0.018870 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 38.586967 seconds.
-  path: Assets/Poly Assets OBJ/Dolphine 3
-  artifactKey: Guid(c01279cf03844459ea71b1ea2345de1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Dolphine 3 using Guid(c01279cf03844459ea71b1ea2345de1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c62cbf0176a185c7ebbdaac70d59066') in 0.001891 seconds
-  Import took 0.008018 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.289857 seconds.
-  path: Assets/Poly Assets OBJ/Dolphine 2
-  artifactKey: Guid(c01279cf03844459ea71b1ea2345de1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Dolphine 2 using Guid(c01279cf03844459ea71b1ea2345de1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '414c5d0d32f43133f1c137cc96fa6d37') in 0.002178 seconds
-  Import took 0.009945 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.018186 seconds.
-  path: Assets/Poly Assets OBJ/Dolphine 2/Mesh_Dolphin.obj
-  artifactKey: Guid(7eb5f47f766074f4fb051dd252a5a5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Dolphine 2/Mesh_Dolphin.obj using Guid(7eb5f47f766074f4fb051dd252a5a5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10228b15b4e9f61dd78ce3c38839d26f') in 0.036801 seconds
-  Import took 0.043651 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Poly Assets OBJ/Dolphine 2/Tex_Dolphin.png
-  artifactKey: Guid(97e862812fd204813b791d30c448941c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Dolphine 2/Tex_Dolphin.png using Guid(97e862812fd204813b791d30c448941c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d3999588007cade0ee7193f6062a5ff') in 0.023037 seconds
-  Import took 0.030096 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 95.349038 seconds.
-  path: Assets/Poly Assets OBJ/Eel 2
-  artifactKey: Guid(a63a61cbbdbc74f94afb021f2792ebe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Eel 2 using Guid(a63a61cbbdbc74f94afb021f2792ebe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58aa8a154fd90c9675e8f2bac0e9a5ee') in 0.002931 seconds
-  Import took 0.010598 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.075416 seconds.
-  path: Assets/Poly Assets OBJ/Eel 2/Mesh_Eel.obj
-  artifactKey: Guid(1512c94342473432aa627b0c39270161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Eel 2/Mesh_Eel.obj using Guid(1512c94342473432aa627b0c39270161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5794521851b64f7f162420873c816298') in 0.053014 seconds
-  Import took 0.060687 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000206 seconds.
-  path: Assets/Poly Assets OBJ/Eel 2/Tex_Eel.png
-  artifactKey: Guid(90fccba0738ba412bac5203afb27fd53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Eel 2/Tex_Eel.png using Guid(90fccba0738ba412bac5203afb27fd53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7223bbcb90810f5cc213833581d04d') in 0.007884 seconds
-  Import took 0.015863 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 47.879533 seconds.
-  path: Assets/Poly Assets OBJ/Eel 1
-  artifactKey: Guid(3ce92b3da708245db9af5a75555f7e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Eel 1 using Guid(3ce92b3da708245db9af5a75555f7e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1933c0197fa643c91682691bdd52de66') in 0.002493 seconds
-  Import took 0.011982 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005570 seconds.
-  path: Assets/Poly Assets OBJ/Eel 1
-  artifactKey: Guid(3ce92b3da708245db9af5a75555f7e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Eel 1 using Guid(3ce92b3da708245db9af5a75555f7e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1933c0197fa643c91682691bdd52de66') in 0.001624 seconds
-  Import took 0.010198 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.065120 seconds.
-  path: Assets/Poly Assets OBJ/Eel 1/eel_6.obj
-  artifactKey: Guid(dd549437af770499caa0826d73d36acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Poly Assets OBJ/Eel 1/eel_6.obj using Guid(dd549437af770499caa0826d73d36acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a362d0bd4c60c2d880d4a5e420a8dd3d') in 0.060184 seconds
-  Import took 0.066033 seconds .
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 3242.
+Total: 7.087370 ms (FindLiveObjects: 1.027066 ms CreateObjectMapping: 0.237301 ms MarkObjects: 3.358089 ms  DeleteObjects: 2.463607 ms)
 
